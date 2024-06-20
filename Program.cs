@@ -1,4 +1,4 @@
-using LQA_BaiThi_2324.Data;
+using LQABaiThiLai.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

@@ -1,4 +1,4 @@
-namespace LQA_BaiThi_2324.Models;
+namespace LQABaiThiLai.Models;
 
 public class ErrorViewModel
 {

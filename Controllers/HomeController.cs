@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using LQA_BaiThi_2324.Models;
+using LQABaiThiLai.Models;
 
-namespace LQA_BaiThi_2324.Controllers;
+namespace LQABaiThiLai.Controllers;
 
 public class HomeController : Controller
 {
